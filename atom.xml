@@ -6,7 +6,7 @@
   <link href="http://ocean2580.github.io/atom.xml" rel="self"/>
   
   <link href="http://ocean2580.github.io/"/>
-  <updated>2022-10-18T14:05:04.897Z</updated>
+  <updated>2022-10-19T15:04:36.290Z</updated>
   <id>http://ocean2580.github.io/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>front-end</title>
+    <link href="http://ocean2580.github.io/2022/10199238.html"/>
+    <id>http://ocean2580.github.io/2022/10199238.html</id>
+    <published>2022-10-19T14:44:28.000Z</published>
+    <updated>2022-10-19T15:04:36.290Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/medias/images/DreamLand.png&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="web前端" scheme="http://ocean2580.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="html" scheme="http://ocean2580.github.io/tags/html/"/>
+    
+    <category term="css" scheme="http://ocean2580.github.io/tags/css/"/>
+    
+    <category term="javaScript" scheme="http://ocean2580.github.io/tags/javaScript/"/>
+    
+    <category term="vue" scheme="http://ocean2580.github.io/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://ocean2580.github.io/2022/101816107.html"/>
     <id>http://ocean2580.github.io/2022/101816107.html</id>
     <published>2022-10-18T14:05:04.897Z</published>
-    <updated>2022-10-18T14:05:04.897Z</updated>
+    <updated>2022-10-18T15:42:22.049Z</updated>
     
     
       
