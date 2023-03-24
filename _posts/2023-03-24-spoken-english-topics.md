@@ -318,6 +318,10 @@ I can't make a living from doing something I like.
 
 # Time
 
+Time is precious because life is short. We all have a finite amount of time on this Earth, so we should be sure to spend it wisely. Let's not waste any more time reading this intro; instead, let's get right into the conversations! Is time important to you? It's now time to tell us your thoughts!
+
+![time 的图像结果](https://th.bing.com/th/id/OIP._qfzkiOZOpbvyjYm1fU18AHaHa?w=178&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+
 
 
 ## Keywords
