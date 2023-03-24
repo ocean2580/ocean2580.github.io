@@ -6,19 +6,21 @@ Many people love traveling to new and exciting places. While traveling, you get 
 
 
 
-### Keywords
+## Keywords
 
-1. Vacation
 
-​        vocation ~ occupation 
 
-​		what do you do for work? / what do you do for a living?
+#### 1. Vacation
+
+vocation ~ occupation 
+
+what do you do for work? / what do you do for a living?
 
  
 
 
 
-2. Destination
+#### 2. Destination
 
 ​		Tibet
 
@@ -28,7 +30,7 @@ Many people love traveling to new and exciting places. While traveling, you get 
 
 
 
-3. Airline ~ flight ticket
+#### 3. Airline ~ flight ticket
 
 ​		budget flight n.廉价航空
 
@@ -54,7 +56,7 @@ Many people love traveling to new and exciting places. While traveling, you get 
 
 
 
-4. Hotel
+#### 4. Hotel
 
 - Hostel n.青旅
 
@@ -74,7 +76,7 @@ Many people love traveling to new and exciting places. While traveling, you get 
 
 
 
-5. Field trip
+#### 5. Field trip
 
 ​		business trip
 
@@ -82,7 +84,7 @@ Many people love traveling to new and exciting places. While traveling, you get 
 
 
 
-6. Tour (lush)
+#### 6. Tour (lush)
 
 ​		I went on a tour to Tibet with my parents last year.
 
@@ -100,7 +102,7 @@ Black Pink is going to tour around the world next year. (巡演)
 
 
 
-7. Budget
+#### 7. Budget
 
 ​		budget = cheap
 
@@ -112,7 +114,7 @@ Black Pink is going to tour around the world next year. (巡演)
 
 
 
-8. Road trip 
+#### 8. Road trip 
 
 - a motorhome ~ **an RV** n.房车
 
@@ -134,7 +136,7 @@ Black Pink is going to tour around the world next year. (巡演)
 
 
 
-9. Public holiday
+#### 9. Public holiday
 
 - long weekends
 
