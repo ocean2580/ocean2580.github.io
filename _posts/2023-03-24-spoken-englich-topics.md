@@ -14,7 +14,7 @@ Many people love traveling to new and exciting places. While traveling, you get 
 
 vocation ~ occupation 
 
-what do you do for work? / what do you do for a living?
+what do you do for work? / what do you do for a living?   
 
  
 
@@ -24,7 +24,7 @@ what do you do for work? / what do you do for a living?
 
 ​		Tibet
 
-​		Bali Island (Indonesia) 
+​		Bali Island (Indonesia)  
 
 
 
@@ -34,23 +34,23 @@ what do you do for work? / what do you do for a living?
 
 ​		budget flight n.廉价航空
 
-​		boarding pass n.登机牌
+​		boarding pass n.登机牌  
 
 
 
 ​		carry-on luggage n.手提行李
 
-​		check-in luggage n.托运行李
+​		check-in luggage n.托运行李  
 
 
 
-​		check in v.入住	check out v.退房
+​		check in v.入住	check out v.退房  
 
 
 
 ​		a window seat
 
-​		a **aisle** seat (列)
+​		a **aisle** seat (列)  
 
 
 
@@ -66,11 +66,11 @@ what do you do for work? / what do you do for a living?
 
 ​		cheap fare
 
-​		dirty
+​		dirty  
 
 
 
-- Motel n.汽车旅馆
+- Motel n.汽车旅馆  
 
 
 
@@ -78,7 +78,7 @@ what do you do for work? / what do you do for a living?
 
 #### 5. Field trip
 
-​		business trip
+​		business trip  
 
 
 
@@ -92,7 +92,7 @@ what do you do for work? / what do you do for a living?
 
 ​		tour guide
 
-​		tourist(s)
+​		tourist(s)  
 
 
 
@@ -108,7 +108,7 @@ Black Pink is going to tour around the world next year. (巡演)
 
 ​		budget accommodation
 
-​		budget airline
+​		budget airline  
 
 
 
@@ -118,9 +118,7 @@ Black Pink is going to tour around the world next year. (巡演)
 
 - a motorhome ~ **an RV** n.房车
 
-​		I wanna go on a road trip to Tibet with my parents.
-
-​		
+​		I wanna go on a road trip to Tibet with my parents.  
 
 
 
@@ -130,9 +128,7 @@ Black Pink is going to tour around the world next year. (巡演)
 
 ​		sleeping bags
 
-​		sunscreen
-
-
+​		sunscreen  
 
 
 
@@ -140,16 +136,180 @@ Black Pink is going to tour around the world next year. (巡演)
 
 - long weekends
 
-  The national day holiday is a 7-day public holiday.
+  The national day holiday is a 7-day public holiday.  
 
 ​		
 
 - tourist attraction
 
-​		a gigantic buddha status
+​		a gigantic buddha status n. 大佛雕塑
 
 ​		attractive
 
 ​		This place attracts more than one million tourists every year.
 
-​		attract investments to boost the local economy.
+​		attract investments to boost the local economy.  
+
+
+
+# Sport
+
+Many people around the world play or watch their favorite sports. Whether you enjoy football, basketball, swimming, or skydiving, there are **guaranteed** to be other people out there who like the same sports as you. Sport keeps us active and healthy, helps us make new friends, and is a lot of fun! Do you like playing or watching sports? Let's talk about it!  
+
+![sport](https://tse3-mm.cn.bing.net/th/id/OIP-C.L3pqoTjEfUxH9sjRp5CU1QHaE8?w=232&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+
+
+
+## Keywords
+
+
+
+#### 1. Equipment
+
+football, basketball, swimming, **skydiving**, bungee jump, frisbee...
+
+- badminton		
+
+racket & shuttle
+
+cocky <-> humble
+
+**court** n.球场; 法院
+
+bring this to court
+
+string, re-string 
+
+I just got my racket restrung.      
+
+
+
+- table tennis (ping pong)
+
+bat
+
+rubber n.胶
+
+eraser 
+
+condom
+
+robbery, rob    
+
+
+
+- gym
+
+I always go to the gym to **do exercises / work out** three times a week.
+
+This is a tough question. I can't work it out!!!   
+
+
+
+- workout n.健身
+
+weights n.举重
+
+dumbbell(s) n.哑铃
+
+dumbbell chest press
+
+are you dumb? = are you an **idiot / dumbass**?
+
+barbells n.杠铃
+
+**treadmill** n.跑步机
+
+I spent 30 minutes on the treadmill tonight. It was a good workout.
+
+**cardio** n.有氧运动
+
+I did some cardio exercises tonight.
+
+**sit-up** n.仰卧起坐
+
+I will start tonight's workout with some sit-ups.
+
+**squat** n / v.蹲
+
+Asian squat
+
+**lunge** n.弓步
+
+**push-up** n.俯卧撑
+
+**plank** n.平板支撑
+
+muscle strength    
+
+
+
+good for my physical and mental health  
+
+
+
+- runners / trainers / snickers n. 跑鞋
+
+**flip-flops** n.人字拖  
+
+
+
+#### 2. Athlete
+
+professional <-> **amateur**
+
+opponents 
+
+beat ~ defeat  
+
+
+
+#### 3. Spectator
+
+watcher ~ audience  
+
+
+
+#### 4. sportsmanship
+
+He is not only a great professional athlete, he's also got great sportsmanship.  
+
+
+
+#### 5. competition 
+
+Are you playing the **comp**? 
+
+**tournament** 
+
+**season**, league, match, game
+
+**Olympic**
+
+match = lighter n.打火机
+
+couple's shirt n.情侣装
+
+matching shirt
+
+We're going to wear our matching outfit to Damon's wedding.
+
+game point n. 赛点
+
+match point
+
+set point  
+
+
+
+#### 6. Teamwork
+
+pair work
+
+This task requires great teamwork.
+
+Square dancing = dancing in parks
+
+elderly people 
+
+I can't make a living from doing something I like.  
