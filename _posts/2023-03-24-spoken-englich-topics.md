@@ -312,4 +312,96 @@ Square dancing = dancing in parks
 
 elderly people 
 
-I can't make a living from doing something I like.  
+I can't make a living from doing something I like.     
+
+
+
+# Time
+
+
+
+## Keywords
+
+#### 1. Decoration
+
+precious = important = significant = crucial = major = critical
+
+finite n.有限的
+
+We do not have **infinite** amount of time.
+
+Everyone has an equal amount of time.
+
+We should work wisely not work hard.
+
+I always spend my income on buying **stocks**.
+
+buying stocks = investing in the stock market
+
+This project delay will cost you time and money.   
+
+
+
+#### 2. Present
+
+presence <-> absence
+
+present = gift
+
+emoji n.表情
+
+meme(s) n. 表情包
+
+I haven't been able to go back to my hometown for about 3 years.    
+
+
+
+#### 3. Past
+
+Did you have dinner already?   
+
+
+
+#### 4. Future
+
+In today's lecture, I will be going through some of the fundamentals theories about English grammar.   
+
+
+
+#### 5. Organize
+
+I'm a very **organized** person.   
+
+
+
+#### 6. Noon
+
+I normally take a nap for about 30 minutes after lunch.
+
+**food coma**
+
+I'm having a terrible food coma. So I'm gonna take a nap.   
+
+
+
+#### 7. Routine
+
+- morning
+
+wake up at 8 A.M
+
+eat my breakfast
+
+take a shower before I start my work   
+
+
+
+at the moment = now = currently   
+
+
+
+- **productivity**
+
+I'm a morning person, because I always find myself most productive after breakfast.
+
+We need to find ways to improve our productivity so we can work less and earn more.   
