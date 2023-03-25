@@ -507,3 +507,109 @@ I rearranged this song.
 song, album, artist (musician)
 
 Jay Chou  
+
+
+
+# Goals
+
+Many people believe that it's important to set yourself goals. Setting goals can help you to stay focused and motivated, measure your progress , and **beat** **procrastination**. Most importantly, setting goals can help you to achieve your dreams. Do you have any goals? We want to hear about them! 
+
+![Goals](https://tse2-mm.cn.bing.net/th/id/OIP-C.DPL-zVFIFuTD1-mFVJXotgHaGI?pid=ImgDet&rs=1)
+
+
+
+## Keywords
+
+
+
+#### 1. Term
+
+short-term
+
+long-term
+
+I really want to pass my IELTS test so I can go to the France to study engineering, which is something I'm really passionate about.   
+
+
+
+mid-semester / mid-term exam
+
+finals = final exams
+
+semi-finals n. 半决赛
+
+I'm a semi-professional badminton player.       
+
+
+
+#### 2. Concentrate <-> Distract
+
+concentrate = focus + on
+
+Stop making noise, I need to stay focused on my study!
+
+I tend to lose my **concentration** when I'm **distracted**.
+
+Social media apps have become a huge **distraction** to young people.
+
+Sorry, I was just a bit distracted by ...    
+
+
+
+I failed my exams. I lost all my **motivation** to study.
+
+I'm motivated to learn new skills and bring value to your team.   
+
+
+
+#### 3. Procrastinate
+
+**procrastinate** ~ delay v. 拖延
+
+Hey, have you finished your homework?
+
+No. sorry, I've been procrastinating.
+
+Setting a clear goal helps me to beat procrastination.    
+
+
+
+achieve your dreams / target / goals / **intentions**
+
+Sorry, I didn't intent to do that / that wasn't my intention.
+
+sense of achievement   
+
+
+
+#### 4. Aspiration
+
+aspiration = desire = aim
+
+I find Steve Jobs really inspiring.
+
+I'm deeply inspired by Steve Jobs' speech.     
+
+
+
+#### 5. Ambition
+
+My ambition is to make one billion dollars before i turn 30.
+
+I think this is an overly **ambitious** goal.   
+
+
+
+#### 6. Planning
+
+Planning phase (step) - Execution phase
+
+A has been executed (killed).    
+
+
+
+I know I'm a slow learner. And it's fine, I understand that so I always believe that I will get there eventually.   
+
+
+
+ 
