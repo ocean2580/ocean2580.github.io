@@ -408,4 +408,102 @@ at the moment = now = currently
 
 I'm a morning person, because I always find myself most productive after breakfast.
 
-We need to find ways to improve our productivity so we can work less and earn more.   
+We need to find ways to improve our productivity so we can work less and earn more.      
+
+
+
+# Music
+
+Everyone loves listening to music. Studies have shown that listening to music makes us happier, less stressed, and even helps us sleep better. There are many different **genres** (styles) of music, from pop, rock and funk to classical and jazz. What kinds of music do you enjoy? Please tell us your thoughts!
+
+![music](https://tse2-mm.cn.bing.net/th/id/OIP-C.yrhsdWcO4j-_rAf9lD681QAAAA?w=277&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+
+## Keywords
+
+
+
+#### 1. Genre
+
+Stop pressuring  me.
+
+genre = style = type
+
+music: hip pop, classical, jazz, rock, funk, rap, mandarin pop (**Man-pop**), k-pop...
+
+movie: romantic, children, documentary, crime, horror, thriller, k-drama...
+
+book: romantic, crime...
+
+Mandarin, Cantonese (Canto)
+
+music = lyrics + melody   
+
+
+
+#### 2. Lyrics
+
+I like the **chorus** in this song. n. 副歌 (高潮部分)
+
+verse n. 主歌	bridge n. 桥接	hook n. 副歌旋律
+
+This song is so **catchy**, I can't stop **humming** along with it.
+
+humme v.哼唱   
+
+pretty, romantic, beautiful   
+
+
+
+#### 3. Composition
+
+write
+
+- composer
+
+Beethoven, Mozart, Bach, Chopin
+
+orchestra n. 管弦乐团  
+
+
+
+#### 4. Instrument
+
+piano, violin, viola, **cello**, guitar, bass guitar, ukulele
+
+I love playing the Guzheng, which is a very popular traditional Chinese instrument. You may not have heard about it but I highly recommend you to have a listen.
+
+play **the** piano
+
+play badminton   
+
+
+
+#### 5. Acoustic
+
+acoustic guitar	声
+
+electric guitar	电   
+
+
+
+#### 6. sing
+
+I love going to **karaoke** to sing with my friends.
+
+I've already sung it 5 times.
+
+vocal n. 声乐
+
+Your **pitch** is a bit off.	n. 音高   
+
+
+
+#### 7. cover
+
+I love his **cover** on that song.	n. 翻唱
+
+I rearranged this song. 
+
+song, album, artist (musician)
+
+Jay Chou  
