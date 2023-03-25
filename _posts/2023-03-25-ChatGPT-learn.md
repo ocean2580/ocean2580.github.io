@@ -100,7 +100,7 @@ limited high-quality chats
 
 
 
-**in-context learning** 语境内学习
+**in-context learning** 语境内学习 (举一反三)
 
 ![in-context-learning](E:\MyCode\githubpage\ocean2580.github.io\assets\img\in-context-learning.png)
 
@@ -134,3 +134,30 @@ Creative guidance by reward
 
 ![summary-four](E:\MyCode\githubpage\ocean2580.github.io\assets\img\summary-four.png)
 
+
+
+# Others
+
+
+
+#### information
+
+academy -> create
+
+education -> inherit
+
+news -> spread
+
+chatgpt ~ 王语嫣   
+
+
+
+#### future influence
+
+![future-influence](E:\MyCode\githubpage\ocean2580.github.io\assets\img\future-influence.png)
+
+
+
+resist -> delay -> lost advantage
+
+Symbols cannot be memorized in isolation from the entity.
