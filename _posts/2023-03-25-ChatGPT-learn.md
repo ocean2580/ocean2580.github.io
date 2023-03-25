@@ -1,0 +1,1 @@
+![how-it-works](E:\MyCode\githubpage\ocean2580.github.io\assets\img\how-it-works.png)
