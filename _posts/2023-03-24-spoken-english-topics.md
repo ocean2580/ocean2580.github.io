@@ -755,3 +755,209 @@ skirt
 short pants
 
 Everyone has to **dress up** for this party. v. 正式着装  
+
+
+
+# Food
+
+Who doesn't love food? From **spicy** and sweet to **crunchy** and **tangy**, humans have created a wide variety dishes that will satisfy even the **pickiest** eaters! Food brings people together, helps us learn about other cultures, and brings us comfort. What kinds of foods do you enjoy? Let's discuss!
+
+![food](https://tse4-mm.cn.bing.net/th/id/OIP-C.OO1ylj5oZuSGsfDSZ6__gwHaFA?w=286&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+
+
+
+## Keywords
+
+
+
+#### 1. flavor
+
+spicy ~ hot
+
+(red / green) chilli / capsicum n. 辣椒   
+
+
+
+sweet 
+
+dessert, (a **scoop** of) ice-cream, apple pie
+
+**mango** / **durian** pancake(s)  芒果  榴莲   
+
+
+
+salty
+
+It has a very **strong taste**.
+
+He is just being salty...	(阴阳怪气的)
+
+**soy sauce** n. 酱油
+
+**vinegar** n. 醋
+
+MSG n. 味精
+
+coocking wine   
+
+
+
+**crunchy** (potato chips)	adj. 脆的
+
+**tangy** < **sour** adj. 酸的
+
+**lemons** are sour
+
+**lime** n.青柠   
+
+
+
+my brother is really picky about food.
+
+**boiler ~ kettle** n. 水壶
+
+nail cutter / cilpper
+
+**lighter** n. 打火机   
+
+
+
+#### 2. Beverage
+
+soft drinks: **non-alcoholic**
+
+long island iced tea / gin and tonic / **cocktail**
+
+**virgin** 
+
+iced tea / Coke / Pepsi
+
+**plum juice** n. 酸梅汤   
+
+
+
+#### 3. hotpot
+
+kettle n. 水壶
+
+an induction cooker(s) n. 电磁炉
+
+rice cooker 
+
+slow cooker
+
+cook n. 厨师
+
+portable stove + gas   
+
+
+
+**ingredients**: raw food materials
+
+soup base n. 汤底
+
+**sliced beef**  
+
+**pork belly** n. 五花肉
+
+lamb
+
+prawn / **shrimp** / lobster n. 虾
+
+squid n. 鱿鱼
+
+crab n. 蟹
+
+oyster sauce n. 蚝油
+
+**veggies** = vegetables
+
+**asian veggies**
+
+wombok n. 白菜
+
+spinach n. 菠菜
+
+radish / carrot
+
+**enoki mushroom** n. 金针菇   
+
+
+
+#### 4. fruit
+
+apple, pear, peach, passionfruit, mango, banana, **berry **  
+
+
+
+#### 5. fast food
+
+MC Donalds, KFC, Burger king (Hungry Jacks)
+
+cheese burgers, **hamburgers**
+
+**meal** n. 套餐
+
+chips, **french fries**
+
+**drive-through**  不下车点取餐
+
+culinary skills = cooking skills
+
+**brunch** = breakfast + lunch
+
+
+
+#### 6. Street food
+
+south-east Asia
+
+Malaysia: Malay + Chinese + Indian 
+
+Singapore, Thailand, Vietnam
+
+Japan
+
+South / North Korea    
+
+
+
+#### 7. Food delivery
+
+convenient, plastic containers
+
+takeaway (food) n. 打包
+
+dine in 堂食
+
+I'm probably gonna order some **takeaways**.
+
+Have here or take away?
+
+**Organic** = healthy
+
+corn chicken   
+
+
+
+fried rice with... n. 炒饭
+
+combination fried rice
+
+honey chicken
+
+sweet and sour pork
+
+**pineapple** n. 菠萝
+
+watermelon
+
+**Spring rolls** n. 春卷
+
+Mongolian beef
+
+deep fried chicken n. 炸鸡
+
+steam, bake
+
+streaming = live n. 直播   
