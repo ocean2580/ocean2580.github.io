@@ -608,8 +608,150 @@ A has been executed (killed).
 
 
 
-I know I'm a slow learner. And it's fine, I understand that so I always believe that I will get there eventually.   
+I know I'm a slow learner. And it's fine, I understand that so I always believe that I will get there eventually.      
 
 
 
- 
+# Shopping
+
+Who doesn't love shopping? Modern-day consumers can purchase just about anything they can think of from an endless number of stores. In fact, customers don't even have to leave their houses anymore to buy their favorite items! Do you enjoy shopping? What sort of things do you like to buy? Let's talk together about shopping!
+
+![shopping](https://tse4-mm.cn.bing.net/th/id/OIP-C.G8wam74VRj3uGhUYdNWnKAHaE8?w=271&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+
+
+
+## Keywords
+
+#### 1. online
+
+online shopping 
+
+Taobao, Amazon, eBay
+
+online payment
+
+WeChat pay, Ali pay   
+
+
+
+**Pros**: convenient, affordable, wide variety to choose from
+
+**Cons**: long wait time, too many options, online security
+
+online <-> localised    
+
+
+
+#### 2. consumer = customer
+
+customer service industry = **hospitality** industry n. 服务业
+
+massage n. 按摩   
+
+
+
+#### 3. commerce
+
+commence n. 开始
+
+e-commerce  
+
+
+
+#### 4. Mall / Shopping center
+
+supermarket 种类丰富
+
+grocery 食物为主
+
+I'm going grocery shopping with my dad. 
+
+window shopping 只看不买  
+
+
+
+#### 5. Parcel
+
+**shipping** company, carrier, courier, DHL n. 快递公司
+
+**mobile carrier** n. 手机运营商
+
+carry = support 
+
+Have them been  shipped?
+
+What's the shipment number?   
+
+
+
+#### 6. Browse
+
+**browser** 
+
+Microsoft Edge, Apple Safari, Google Chrome
+
+Hi how are you? Do you need any help? Are you looking for something specific?
+
+No. I'm **browsing around**.
+
+No worries / No problems. Let me know if you have any questions.  
+
+
+
+#### 7. Marketing
+
+China is the biggest market in the world.
+
+I think this is a great product, but we still need to think about how to **market** it. (v. 市场营销)  
+
+
+
+#### 8. Factory
+
+IPhones are **manufactured** (made) in China.
+
+There're so many phone **manufactures** (makers) in the world nowadays, such as Samsung, Apple, Huawei, Xiaomi.   
+
+
+
+Can I ask for the price?
+
+Can you let me know what the price is?
+
+It's 2,000 dollars.
+
+Oh, it's quite expensive. It's a bit **over my budget**.
+
+**overpriced** / pricey / costly
+
+All Apple products are overpriced. (really pricey)
+
+I can't afford it.
+
+cheap ~ affordable  
+
+
+
+clothing shops
+
+**electronics** shops ( digital / electronics products)
+
+grocery shops
+
+I can buy almost everything at my **fingertips** (with a click of my finger).  
+
+
+
+clothing
+
+T-shirt
+
+button-up / button-down shirt
+
+trousers (long pants)
+
+skirt
+
+short pants
+
+Everyone has to **dress up** for this party. v. 正式着装  
