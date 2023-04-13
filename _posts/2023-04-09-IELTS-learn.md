@@ -6,6 +6,10 @@
 
 ![type-reading](https://pic.peo.pw/a/2023/04/12/6436c9b0e45f1.png)
 
+  
+
+3篇文章 40题
+
    
 
 ## 1. Completion
@@ -137,3 +141,21 @@ several factors -> one conclusion
  标题里的单词 -> 文段中都有解释
 
 ![headings](https://pic.peo.pw/a/2023/04/13/64379d272adfe.png)
+
+   
+
+## 4. Choice
+
+
+
+### 4.1 multiple answers
+
+![multiple-answers](https://pic.peo.pw/a/2023/04/13/6437a8bb46ab2.png)
+
+
+
+### 4.2 single answer
+
+细节 / 推理 / 功能
+
+![single-answer](https://pic.peo.pw/a/2023/04/13/6437a8b868565.png)
