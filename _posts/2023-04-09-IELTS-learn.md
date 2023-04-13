@@ -87,3 +87,31 @@ several factors -> one conclusion
    
 
 读题 -> 定位 / 考点 -> 反问
+
+   
+
+## 3. Matching
+
+>  题目&选项 **数量不定**
+>
+> 答案整体 **均匀分布**
+
+ 
+
+### 3.1 character views
+
+人名 **分区/段** 
+
+人物观点 对比 题干
+
+
+
+### 3.2 sentence endings
+
+**定位**难（顺序 分散 密集）
+
+同替
+
+逐题找keyword
+
+![sentence-endings](https://pic.peo.pw/a/2023/04/13/643775cca2ed4.png)
