@@ -110,8 +110,30 @@ several factors -> one conclusion
 
 **定位**难（顺序 分散 密集）
 
-同替
+选项**同替**
 
 逐题找keyword
 
 ![sentence-endings](https://pic.peo.pw/a/2023/04/13/643775cca2ed4.png)
+
+
+
+### 3.3 information
+
+无序 分散 **多选**（可能）
+
+每个选项 包含 多个段落
+
+题干信息 -> 段落中必有解释
+
+![information](https://pic.peo.pw/a/2023/04/13/64379d27394ba.png)
+
+
+
+### 3.4 headings
+
+通读
+
+ 标题里的单词 -> 文段中都有解释
+
+![headings](https://pic.peo.pw/a/2023/04/13/64379d272adfe.png)
