@@ -159,3 +159,128 @@ several factors -> one conclusion
 细节 / 推理 / 功能
 
 ![single-answer](https://pic.peo.pw/a/2023/04/13/6437a8b868565.png)
+
+   
+
+# Listening
+
+![Listening](https://pic.peo.pw/a/2023/04/15/643ab70a8753f.png)
+
+
+
+> survival / academic	conversation / monologue
+
+
+
+![listening-four-type](https://pic.peo.pw/a/2023/04/15/643ab70b68f7e.png)
+
+
+
+### 1. form completion
+
+triple 三个
+
+hundred / thousand / million / billion
+
+   
+
+```
+1,123,456,789
+```
+
+one **billion** one hundred and twenty three **million** four hundred and fifty six **thousand** seven hundred  and eighty nine
+
+
+
+£4.45	four **pounds** forty five 
+
+1 pound(s) = 100 penny(pence)
+
+$15.5	fifteen **dollars** fifty
+
+1 dollar(s) = 100 cent(s)
+
+
+
+last name = family name = **surname**
+
+Don't pay attention to the single letter but the whole word. 
+
+
+
+January, February, 
+
+March, April, May, June, July, August, 
+
+September, October, November, December.
+
+Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
+
+weekday, weekend.
+
+Spring, Summer, Fall / Autumn, Winter.
+
+
+
+Oct. 10 2003
+
+基数/序数词皆可
+
+11th, 12th, 13th
+
+
+
+5.45am	
+
+7.30pm
+
+
+
+小地址在前 大地址在后
+
+
+
+### 2. map & diagram
+
+> 顺序
+
+North, South, West, East
+
+Southeast
+
+
+
+go straight
+
+turn left / right (turning)
+
+traffic light
+
+roundabout	环岛
+
+clockwise 顺时针	anticlockwise 逆时针
+
+**corridor** 走廊
+
+balcony 阳台
+
+there's a door **facing** me 门面对我 
+
+across bridge 过桥
+
+way in / entrance
+
+way out / exit
+
+located in
+
+***远近相对 左右绝对***
+
+**cloakroom** 存衣处
+
+
+
+确定起始点，利用相对位置定位
+
+读待选词（**原**现）
+
