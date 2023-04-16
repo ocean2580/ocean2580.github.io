@@ -1,3 +1,14 @@
+---
+layout: post
+title: ChatGPT Learn
+subtitle: basic fundamentals about ChatGPT 
+tags: [chatgpt]
+---
+
+
+
+
+
 # Popularization of ChatGPT
 
 

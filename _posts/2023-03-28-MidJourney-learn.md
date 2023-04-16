@@ -1,3 +1,13 @@
+---
+layout: post
+title: MidJourney Learn
+subtitle: AIGC in pictures
+tags: [midjourney]
+
+---
+
+
+
 ## Compositions
 
 Image prompt + Text prompt + Parameters
