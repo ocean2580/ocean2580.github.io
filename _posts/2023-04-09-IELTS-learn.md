@@ -175,6 +175,10 @@ several factors -> one conclusion
 
 ![Listening](https://pic.peo.pw/a/2023/04/15/643ab70a8753f.png)
 
+评分标准同 Reading
+
+![listening-score](https://ts1.cn.mm.bing.net/th/id/R-C.2647f17f9f8f49720ae6812c8a14012a?rik=%2fiQFgeR%2fb5NHlg&riu=http%3a%2f%2fimg.ukpathway.com%2fp%2f20180605%2fa0404df1c62bdbcb59bf6c4e29f534cc.jpg&ehk=SfvPJqNHnWHv6BDEifjzed6WIxsOjnD0R4rYgRlJcj4%3d&risl=&pid=ImgRaw&r=0)
+
 
 
 > survival / academic	conversation / monologue
@@ -292,4 +296,20 @@ located in
 确定起始点，利用相对位置定位
 
 读待选词（**原**现）
+
+
+
+### 3. table completion
+
+![Screenshot 2023-04-16 at 11.26.47](/Users/mima0000/Library/Application Support/typora-user-images/Screenshot 2023-04-16 at 11.26.47.png)
+
+题目按顺序出现，但信息点不一定顺序
+
+   
+
+### 4. multiple choice & pick from list
+
+单选 / 多选
+
+限定（时、频、地、名）+ 定位
 
