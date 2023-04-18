@@ -173,6 +173,10 @@ several factors -> one conclusion
 
 # Listening
 
+> 1.做题 2.错题分析 3.精听 4.跟读
+>
+> 听**3遍**以上每篇文章
+
 ![Listening](https://pic.peo.pw/a/2023/04/15/643ab70a8753f.png)
 
 评分标准同 Reading 
@@ -328,3 +332,25 @@ located in
 congestion = heavy traffic
 
 ![Listening-multiple-answers](https://pic.peo.pw/a/2023/04/17/643d0e6448edc.png)
+
+
+
+### 6. note & sentence completion
+
+ 读题干并**猜测**
+
+field work 实地考察
+
+![note-sentence-completion](https://pic.peo.pw/a/2023/04/18/643e0a09833c7.png)
+
+场景 同替 定位词后置
+
+   
+
+### 7. matching
+
+同替 ***比较快***
+
+ 直接选答案
+
+![listening-matching](https://pic.peo.pw/a/2023/04/18/643e0a08106dd.png)
