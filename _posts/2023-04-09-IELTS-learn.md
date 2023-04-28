@@ -354,3 +354,40 @@ field work 实地考察
  直接选答案
 
 ![listening-matching](https://pic.peo.pw/a/2023/04/18/643e0a08106dd.png)
+
+
+
+# Writing
+
+1h = 20min + 40min
+
+
+
+## Part 1
+
+**chart**; flow; graphic 
+
+line bar pie table; 
+
+对看到的数据、信息进行**客观、准确、全面**的描述
+
+介绍+指令+图表
+
+
+
+动态图：时间、数据 连续 - 变化趋势 - change
+
+静态图：独立 - 不连续 -difference
+
+
+
+
+
+
+
+
+
+
+
+
+
