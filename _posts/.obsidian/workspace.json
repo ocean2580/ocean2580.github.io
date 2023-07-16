@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "6be8877e8ba4480f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e9cb6dbdb164a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a15ed715ad1256",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a7f76f6474af014",
+    "type": "split",
+    "children": [
+      {
+        "id": "327edc3c632d0c01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "837fb15a08aaf1b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8739b34f0dd87510",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdd2508d66307f5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7be3d29b10dfaffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "22e55783067f0b43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15558ddee2831c18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4416874c81b1fb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "141394029f4a79ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "200b69c249bf1c1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "837fb15a08aaf1b3",
+  "lastOpenFiles": [
+    "2023-05-05-mall-learning.md",
+    "未命名.md",
+    "2023-04-09-IELTS-learn.md",
+    "2023-03-28-MidJourney-learn.md",
+    "2023-04-28-vue3.0-learn.md",
+    "2023-04-13-bytedance-front-end-junior-camp.md",
+    "2023-03-25-ChatGPT-learn.md",
+    "2023-03-22-ethical-hacking-in-15-hours.md",
+    "2020-02-28-test-markdown.md",
+    "2020-02-26-flake-it-till-you-make-it.md",
+    "2023-03-24-spoken-english-topics.md"
+  ]
+}
