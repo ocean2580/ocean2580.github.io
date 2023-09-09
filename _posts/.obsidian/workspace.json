@@ -11,8 +11,12 @@
             "id": "c6a15ed715ad1256",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2020-02-28-test-markdown.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2020-02-28-test-markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2020-02-28-test-markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2020-02-28-test-markdown.md"
+              }
             }
           }
         ]
@@ -138,18 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "837fb15a08aaf1b3",
+  "active": "c6a15ed715ad1256",
   "lastOpenFiles": [
-    "2023-05-05-mall-learning.md",
-    "未命名.md",
+    "2023-03-24-spoken-english-topics.md",
     "2023-04-09-IELTS-learn.md",
     "2023-03-28-MidJourney-learn.md",
+    "2023-07-16-full-stack-front.md",
+    "2023-07-16-video-watching-notes.md",
+    "2020-02-28-test-markdown.md",
+    "2020-02-26-flake-it-till-you-make-it.md",
+    "2023-05-05-mall-learning.md",
+    "未命名.md",
     "2023-04-28-vue3.0-learn.md",
     "2023-04-13-bytedance-front-end-junior-camp.md",
     "2023-03-25-ChatGPT-learn.md",
-    "2023-03-22-ethical-hacking-in-15-hours.md",
-    "2020-02-28-test-markdown.md",
-    "2020-02-26-flake-it-till-you-make-it.md",
-    "2023-03-24-spoken-english-topics.md"
+    "2023-03-22-ethical-hacking-in-15-hours.md"
   ]
 }
