@@ -90,5 +90,44 @@ If the file's name starts with the period, this file will get **hidden**.
 
 `mv 1.txt ../Test/2.txt`
 
+### cotent
 
+`head -5` : first 5 lines
 
+`tail -5` : last 5 lines
+
+they show 10 lines by default.
+
+`echo 12345 > 1.txt` : write to cover the file
+
+`more` : file perusal filter for crt viewing
+
+`less` : opposite of `more`
+
+#### cat
+
+`cat 1.txt 2.txt > all.txt`
+
+`cat 1.txt 2.txt` :  **concatenate** files and print on the standard output
+
+`cat > 1.txt` : write to 1.txt, `control + D` to stop writing 
+
+## file structure
+
+`uptime` : Tell how long the system has been running
+
+`free` : Display amount of free and used **memory** in the system
+
+`ps -A` : report a snapshot of the <u>current processes</u>
+
+`df -h` : report file system disk space usage
+
+`sudo fdisk -l` : manipulate disk partition table
+
+`htop` : interactive process viewer
+
+`ifconfig` : configure a network interface
+
+`sudo apt install`
+
+ 
