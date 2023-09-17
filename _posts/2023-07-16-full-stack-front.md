@@ -40,7 +40,7 @@ document.body.innnerHTML = 'HTML of the page'
 
 # 2. Numbers and Math
 
-slash -> '/'
+forward slash -> '/'
 
 operators: plus, subtract, multiply, divide  
 
