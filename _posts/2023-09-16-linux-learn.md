@@ -1,14 +1,24 @@
 [toc]
 
+# intro
 
+[The Linux Command Handbook – Learn Linux Commands for Beginners](https://www.freecodecamp.org/news/the-linux-commands-handbook/#introductiontolinuxandshells)
 
-linux is basically the **kernel** of those linux **distributions** (ubuntu, red hat, centos)
+Linux is the **ultimate** freedom.
 
-combined with other software and other pre-installed software.
+It powers the vast majority of the servers that compose the Internet. 
 
+They're actually going in the opposite direction, building <u>walled gardens</u>, especially on the mobile side.
 
+Linux is basically the **kernel** of those linux **distributions** (ubuntu, red hat, centos) combined with other software and other pre-installed software.
 
-**G**NU is **Not** **U**nix is a recursive acronym.
+It went on to be the kernel of the GNU Operating System, creating the **duo** GNU/Linux.	(**G**NU is **Not** **U**nix is a recursive acronym.)
+
+[UNIX](https://en.wikipedia.org/wiki/Unix) *is an umbrella term that groups many operating systems used in big corporations and institutions, starting from the 70's*
+
+## Linuxshell
+
+A shell is a <u>command interpreter</u> that exposes an interface to the user to work with the underlying operating system.
 
 
 
@@ -31,6 +41,20 @@ combined with other software and other pre-installed software.
 `./` : below this directory
 
 `../` : below its **previous** directory (at its level)
+
+
+
+### open
+
+`open .` : open the current directory
+
+`open <filename>` : open a file
+
+
+
+### find
+
+`find . -name '*.js'` : Find all the files under the current tree that have the `.js` **extension** and print the **relative** path of each file that matches
 
 
 
@@ -61,6 +85,16 @@ If the file's name starts with the period, this file will get **hidden**.
 `rmdir` : remove empty directories
 
 `rmdir -p` : remove DIRECTORY and its **ancestors**
+
+
+
+### ⭕️ tar
+
+`tar -cf 1.tar Test` : *The* `c` *option stands for* ***create****. The* `f` *option is used to write to file the archive.*
+
+`tar -xf 1.tar -C Linux` : To **extract** them to a specific directory
+
+`tar -tf 1.tar` : **list** the files contained in an archive
 
 
 
@@ -112,7 +146,31 @@ they show 10 lines by default.
 
 `cat > 1.txt` : write to 1.txt, `control + D` to stop writing 
 
+#### ⭕️ gzip
+
+`gzip -k 1.txt` : output will go to the standard output stream, leaving the original file **intact**.
+
+`gzip -kr Test` : compress all the files in a directory **recursively** (each gz for each file)
+
+`gzip -kd 1.txt.gz` : decompress a file
+
+#### wc
+
+`wc -l/w/c 1.txt` : return the number of lines/words/bytes
+
+#### sort
+
+`sort -r 1.txt` : reverse the order
+
+#### diff
+
+`diff 1.txt 2.txt ` : tell the differences between two files
+
 ## file structure
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20230516105759/151.webp)
+
+
 
 `uptime` : Tell how long the system has been running
 
@@ -130,5 +188,5 @@ they show 10 lines by default.
 
 `sudo apt install`
 
- 
+ `which` : locate a command
 
