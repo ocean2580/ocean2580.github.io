@@ -151,3 +151,33 @@ comma -> ,
 > While a `const` object cannot be updated, the properties of this objects can be updated. 
 
 use `const` by default, use `let` when we have to update the value.
+
+# 6. Boolean
+
+A boolean vlaue represents whether something is true or false.
+
+`==` : convert to the same type then compare (**loosely**)
+
+`===` : equal to (**strictly**)
+
+`!==` : not equal to
+
+
+
+# 7. Function
+
+```js
+<button onclick="setValue('Rock')">Rock</button>
+
+...
+
+ function setValue(v) {
+      player = v;
+      computer = all[Math.floor(Math.random()*all.length)]
+      console.log(`${player} vs ${computer}`) // interpolation
+}
+```
+
+
+
+# 8. Object
