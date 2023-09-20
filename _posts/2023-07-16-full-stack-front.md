@@ -174,10 +174,89 @@ A boolean vlaue represents whether something is true or false.
  function setValue(v) {
       player = v;
       computer = all[Math.floor(Math.random()*all.length)]
-      console.log(`${player} vs ${computer}`) // interpolation
+      console.log(`${player} vs ${computer}`) // interpolation 
 }
 ```
 
 
 
 # 8. Object
+
+objects are **references**.
+
+```JS
+const object1 = {
+        message: 'hello',
+  
+  // bracket notation
+        ['delivery-time']: '1 day',
+  
+  // function format
+  fun: function check() {
+        this.status = all[Math.floor(Math.random()*all.length)] 
+      }
+      };
+
+object1.message = 'Good job!';
+
+...
+```
+
+bracket notation: let's use properties that don't work with dot notation.
+
+
+
+## JSON
+
+JSON is an open standard file format and data **interchange** format that uses human-readable text to **store** and **transmit** data objects consisting of <u>attribute–value pairs</u> and arrays.
+
+```js
+const objectJSON = JSON.stringfy(object);
+```
+
+```js
+const object = JSON.parse(objectJSON);
+```
+
+
+
+## localStorage
+
+localStorage saves values more **permanently**, doesn't get deleted when **refersh** the page.
+
+```JS
+localStorage.setItem('key', 'value')
+
+localStorage.getItem('key')
+
+localStorage.removeItem('key')
+```
+
+When something doesn't exist in localStorage -> **null**
+
+
+
+```js
+let score = JSON.parse(localStorage.getItem('score')) || {
+        wins: 0,
+        losses: 0,
+        ties: 0
+      };
+```
+
+if the former is false, then the latter is the default value.
+
+
+
+### falsy values
+
+false, 0, '', NaN, undefined, null
+
+null: **intentionally** want sonething to be empty
+
+ 
+
+# DOM
+
+Document Object Model
+
