@@ -40,7 +40,7 @@ A shell is a <u>command interpreter</u> that exposes an interface to the user to
 
 `./` : below this directory
 
-`../` : below its **previous** directory (at its level)
+`../` : below its **previous** directory 
 
 
 
