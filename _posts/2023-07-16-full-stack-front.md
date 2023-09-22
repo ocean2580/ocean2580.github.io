@@ -34,7 +34,13 @@ JS is **case-sensitive**.
 document.body.innnerHTML = 'HTML of the page'
 ```
 
----
+
+
+## defination
+
+> JavaScript is a **single-threaded**, **non-blocking**, **asynchronous**, **concurrent** programming language with lots of flexibility.
+
+
 
 
 
@@ -177,6 +183,55 @@ A boolean vlaue represents whether something is true or false.
       console.log(`${player} vs ${computer}`) // interpolation 
 }
 ```
+
+JS functions are first-class citizens
+
+- Create and modify
+- use as an **argument**
+- **return** from another function
+- assign to a **variable** (closure)
+
+By default, every line in a function executes **sequentially**, one line at a time. 
+
+
+
+## Function Execution Stack (Call stack)
+
+*This is how **synchronous operations** work in JavaScript.*
+
+![stack](https://www.freecodecamp.org/news/content/images/2021/09/stack.png)
+
+*To track the **current** function in execution.*
+
+
+
+![Screenshot 2023-09-22 at 10.14.27](/Users/Oliver/Library/Application Support/typora-user-images/Screenshot 2023-09-22 at 10.14.27.png)
+
+
+
+![first-flow](https://www.freecodecamp.org/news/content/images/2021/09/first-flow.gif)
+
+![second-flow](https://www.freecodecamp.org/news/content/images/2021/09/second-flow.gif)
+
+JavaScript's `main` thread makes sure that it takes care of everything in the stack **before** it starts looking into anything `elsewhere`.
+
+
+
+## Callback Queue (Task Queue)
+
+*This is how the **asynchronous part** of JavaScript works internally*.
+
+![Screenshot 2023-09-22 at 10.23.44](/Users/Oliver/Library/Application Support/typora-user-images/Screenshot 2023-09-22 at 10.23.44.png)
+
+
+
+## Job Queue (by Promise)
+
+> Every time a **promise** occurs in the code, the executor function gets into the job queue. 
+
+The item in the callback queue is called a `macro task`, whereas the item in the job queue is called a `micro task`.
+
+The event loop works, as usual, to look into the queues but gives **priority** to the `job queue` items over the `callback queue` items when the `stack` is free.
 
 
 
