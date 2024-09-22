@@ -1,1 +1,71 @@
-hi
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>我的网站列表</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 20px;
+      }
+      h1 {
+        text-align: center;
+      }
+      .site-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      .site-card {
+        background: #fff;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        width: 300px;
+      }
+      .site-card img {
+        width: 100%;
+        border-radius: 5px;
+      }
+      .site-title {
+        font-weight: bold;
+        margin: 10px 0 5px;
+      }
+      .site-description {
+        color: #555;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>site list</h1>
+    <div class="site-container">
+      <div class="site-card">
+        <img src="img/secret-base.png" alt="网站1预览图" />
+        <div class="site-title">
+          <a href="https://ocean2580.github.io/secret-base/">secret-base</a>
+        </div>
+        <div class="site-description">一次比赛</div>
+      </div>
+      <div class="site-card">
+        <img src="img/blog.png" alt="网站2预览图" />
+        <div class="site-title">
+          <a href="https://ocean2580.github.io/blog/">blog</a>
+        </div>
+        <div class="site-description">博客</div>
+      </div>
+      <div class="site-card">
+        <img src="https://via.placeholder.com/300x150" alt="网站3预览图" />
+        <div class="site-title">
+          <a href="https://www.example3.com">网站3</a>
+        </div>
+        <div class="site-description">
+          这是网站3的描述。可以在这里介绍网站的内容或特点。
+        </div>
+      </div>
+      <!-- 添加更多网站 -->
+    </div>
+  </body>
+</html>
